@@ -63,7 +63,7 @@
  
     </div>
 </div>
-    <h1>THE STATE OF ERITREA</h1>      
+    <h1>Steclezion/h1>      
 	<h2><span class="alert badge-inverse">POWERED BY steclezion@gmail.com</span></h3>   
     <p>PERSON LOGED IN <div class="alert alert-danger"><?PHP $Today = date('y:m:d');
 								$new = date('l, F d, Y', strtotime($Today));
